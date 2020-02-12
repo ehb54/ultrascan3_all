@@ -1,0 +1,3 @@
+[submodule "us3_sql"]
+	path = us3_sql
+	url = https://github.com/ehb54/us3_sql.git
