@@ -1,3 +1,21 @@
 [submodule "us3_sql"]
 	path = us3_sql
 	url = https://github.com/ehb54/us3_sql.git
+[submodule "us3lims_gridctl"]
+	path = us3lims_gridctl
+	url = https://github.com/ehb54/us3lims_gridctl.git
+[submodule "us3lims_webinfo"]
+	path = us3lims_webinfo
+	url = https://github.com/ehb54/us3lims_webinfo.git
+[submodule "us3lims_dbinst"]
+	path = us3lims_dbinst
+	url = https://github.com/ehb54/us3lims_dbinst.git
+[submodule "us3lims_newinst"]
+	path = us3lims_newinst
+	url = https://github.com/ehb54/us3lims_newinst.git
+[submodule "us3lims_common"]
+	path = us3lims_common
+	url = https://github.com/ehb54/us3lims_common.git
+[submodule "ultrascan3"]
+	path = ultrascan3
+	url = https://github.com/ehb54/ultrascan3.git
