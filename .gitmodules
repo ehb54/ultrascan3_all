@@ -13,3 +13,9 @@
 [submodule "ultrascan3"]
 	path = ultrascan3
 	url = https://github.com/ehb54/ultrascan3.git
+[submodule "us3lims_webinfo"]
+	path = us3lims_webinfo
+	url = https://github.com/ehb54/us3lims_webinfo
+[submodule "us3lims_newinst"]
+	path = us3lims_newinst
+	url = https://github.com/ehb54/us3lims_newinst
