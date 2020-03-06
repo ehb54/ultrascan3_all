@@ -4,15 +4,9 @@
 [submodule "us3lims_gridctl"]
 	path = us3lims_gridctl
 	url = https://github.com/ehb54/us3lims_gridctl.git
-[submodule "us3lims_webinfo"]
-	path = us3lims_webinfo
-	url = https://github.com/ehb54/us3lims_webinfo.git
 [submodule "us3lims_dbinst"]
 	path = us3lims_dbinst
 	url = https://github.com/ehb54/us3lims_dbinst.git
-[submodule "us3lims_newinst"]
-	path = us3lims_newinst
-	url = https://github.com/ehb54/us3lims_newinst.git
 [submodule "us3lims_common"]
 	path = us3lims_common
 	url = https://github.com/ehb54/us3lims_common.git
